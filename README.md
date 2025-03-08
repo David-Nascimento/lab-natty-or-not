@@ -1,11 +1,10 @@
-```markdown
 # A Revolução da IA: Impactos Positivos e Negativos no Mundo
 
 ## 📒 Descrição
 A Inteligência Artificial (IA) generativa representa um avanço significativo na capacidade das máquinas de criar conteúdo original, como texto, imagens e música, a partir de dados existentes. Essa tecnologia tem o potencial de transformar diversos setores, oferecendo benefícios notáveis, mas também apresentando desafios que necessitam de atenção.
 
 ## 🤖 Tecnologias Utilizadas
-IA Generativa ChatGPT para roteirização;
+IA Generativa ChatGPT para roteirização;</br>
 IA Generativa Gamma work para criar o slide;
 
 ## 🧐 Processo de Criação
@@ -16,4 +15,3 @@ Utilizei o "ChatGPT" para revisar minha pesquisa sobre IAs Generativas, estrutur
 
 ## 💭 Reflexão (Opcional)
 Criar esse slide utilizando 100% IA Generativa foi uma experencia única, não imagina o poder a IA em tantas ferramentas.
-```
